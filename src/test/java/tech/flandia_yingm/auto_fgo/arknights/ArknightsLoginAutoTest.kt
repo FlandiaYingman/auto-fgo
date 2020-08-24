@@ -10,6 +10,6 @@ internal class ArknightsLoginAutoTest {
         val emu = AdbDevice("127.0.0.1:7555")
         val auto = ArknightsLoginAuto(emu)
 
-        auto.login(ArknightsAccount("***REMOVED***", "***REMOVED***"))
+        auto.login(ArknightsAccount("13046875179", "F1andiaYingM"))
     }
 }
